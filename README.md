@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Aleksandr! </h1>
+<h3 align="center"></h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexZagric&show_icons=true&theme=nord" />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexZagric&theme=nord&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZagric&theme=nord&layout=donut"/>
+</div>
+
 
 <!--
 **AlexZagric/AlexZagric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
